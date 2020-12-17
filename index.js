@@ -1,16 +1,17 @@
 // ==UserScript==
-// @name         YouTube Translate
-// @namespace    https://github.com/efroostrf/Youtube-Translate
+// @name         project name
+// @namespace    url
+// @description  desc
+// @copyright    line
+// @license      MIT
+// @icon         url, it is
 // @version      1.0.0
-// @description  Быстрый перевод названия/описания видео на необходимые языки всего в несколько кликов!
-// @author       efroostrf
-// @copyright    efroostrf
-// @match        https://*.youtube.com/*
+// @author       uhhuh
+// @run-at       document-start
 // @grant        none
-// @require      https://code.jquery.com/jquery-3.5.1.min.js
-// @require      https://apis.google.com/js/api.js
-// @license      MIT; https://opensource.org/licenses/MIT
-// @updateURL    https://openuserjs.org/meta/efroostrf/index.meta.js
+// @include      [url]
+// @updateURL    https://openuserjs.org/meta/username/file.meta.js
+// @downloadURL  https://openuserjs.org/src/scripts/username/file.user.js
 // ==/UserScript==
 
 (function() {
