@@ -10,7 +10,7 @@
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://apis.google.com/js/api.js
 // @license      MIT; https://opensource.org/licenses/MIT
-// @updateURL    https://github.com/efroostrf/Youtube-Translate/blob/main/index.js
+// @updateURL    https://openuserjs.org/meta/efroostrf/index.meta.js
 // ==/UserScript==
 
 (function() {
