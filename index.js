@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         YouTube Translate
 // @namespace    https://github.com/efroostrf/Youtube-Translate
+// @name         YouTube Translate
 // @version      17.12.2020 1.0.0
 // @description  Быстрый перевод названия/описания видео на необходимые языки всего в несколько кликов!
 // @author       efroostrf
 // @copyright    2020, efroostrf (https://openuserjs.org/users/efroostrf)
 // @match        https://*.youtube.com/*
-// @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://apis.google.com/js/api.js
 // @license      MIT; https://opensource.org/licenses/MIT
 // @updateURL    https://openuserjs.org/meta/efroostrf/index.meta.js
+// @grant        none
 // ==/UserScript==
 
 // ==OpenUserJS==
@@ -19,11 +19,11 @@
 
 (function() {
     'use strict';
-
     const APIKey = "AIzaSyAiFKm5Fglp0vON-OhpcBFTnYmx-n4prwg";
     const AppCode = '937071706522-jfnijg1tdislj9rm0i4a25k7ibqmflph.apps.googleusercontent.com';
     const BtnAppend = 'ytd-expander.style-scope.ytd-video-secondary-info-renderer';
     const XRapidMicrosoftKey = 'f4fc1397f7mshf3ca60fad5167d5p1b4e2cjsn55d7e3d45bff';
+
     var TranslateBy = 'Microsoft';
     var Translated = { "data": [] };
     const Languages = {"translation":{
