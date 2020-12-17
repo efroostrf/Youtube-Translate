@@ -4,7 +4,7 @@
 // @version      17.12.2020 1.0.0
 // @description  Быстрый перевод названия/описания видео на необходимые языки всего в несколько кликов!
 // @author       efroostrf
-// @copyright    efroostrf
+// @copyright    2020, efroostrf (https://openuserjs.org/users/efroostrf)
 // @match        https://*.youtube.com/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
@@ -12,6 +12,10 @@
 // @license      MIT; https://opensource.org/licenses/MIT
 // @updateURL    https://openuserjs.org/meta/efroostrf/index.meta.js
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author efroostrf
+// ==/OpenUserJS==
 
 (function() {
     'use strict';
