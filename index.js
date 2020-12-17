@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Translate
-// @namespace    http://tampermonkey.net/
-// @version      17.12.2020
+// @namespace    https://github.com/efroostrf/Youtube-Translate
+// @version      17.12.2020 1.0.0
 // @description  Быстрый перевод названия/описания видео на необходимые языки всего в несколько кликов!
 // @author       efroostrf
 // @copyright    efroostrf
@@ -9,6 +9,8 @@
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://apis.google.com/js/api.js
+// @license      MIT; https://opensource.org/licenses/MIT
+// @updateURL    https://github.com/efroostrf/Youtube-Translate/blob/main/index.js
 // ==/UserScript==
 
 (function() {
