@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Translate
 // @namespace    https://github.com/efroostrf/Youtube-Translate
-// @version      17.12.2020 1.0.0
+// @version      1.0.0
 // @description  Быстрый перевод названия/описания видео на необходимые языки всего в несколько кликов!
 // @author       efroostrf
 // @copyright    efroostrf
